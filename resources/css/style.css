@@ -290,7 +290,8 @@ a {
 }
 
 .my_story_text{
-    padding:200px 0px;
+    padding-top:200px 0px;
+    padding-bottom:50px 0px;
     text-align:center;
 	
     
