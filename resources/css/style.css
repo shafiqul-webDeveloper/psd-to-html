@@ -290,16 +290,16 @@ a {
 }
 
 .my_story_text{
-    margin-top:200px;
-    padding-bottom:50px;
+    padding-top:200px;
+    padding-bottom:100px;
     text-align:center;
-	
-    
 }
+
 .my_story_text img{
     width: 100px;
     height: 100px;
 }
+
 .my_story_text h3{
     text-transform:uppercase;
     font-family: 'Roboto', sans-serif;
